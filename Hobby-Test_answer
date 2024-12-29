@@ -42,6 +42,9 @@ ans:-Least Recently Used (LRU): Replaces the cache line that has not been access
 -First-In, First-Out (FIFO): Replaces the cache line that has been in the cache the longest, regardless of how recently it was used.
 21.What is snooping in the context of memory management?
 ans:Snooping is a cache coherence protocol where caches on a shared bus monitor (snoop) bus transactions to maintain data consistency across multiple caches.
+22.What is direct addressing?
+ans:Direct addressing uses the operand itself as the memory address, directly accessing the data at that location.
+23.
 
 
 
